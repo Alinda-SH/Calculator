@@ -3,6 +3,7 @@ package com.company;
 import java.util.Objects;
 
 public class CalculatorBuilder2 implements Builder {
+
     private final Calculator calculator;
 
     public CalculatorBuilder2() {

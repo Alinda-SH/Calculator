@@ -1,6 +1,7 @@
 package com.company;
 
 public class CalculatorBuilder1 implements Builder {
+
     private final Calculator calculator;
 
     public CalculatorBuilder1() {

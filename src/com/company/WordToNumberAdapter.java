@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.*;
 
-public class StringToIntergerAdapter {
+public class WordToNumberAdapter {
     private boolean isValidInput = true;
     private String result = "";
     private String finalResult = "";

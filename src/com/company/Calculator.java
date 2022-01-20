@@ -10,7 +10,7 @@ public class Calculator {
     private String stringSum;
     private String stringSumWords;
 
-    private final StringToIntergerAdapter adapter = new StringToIntergerAdapter();
+    private final WordToNumberAdapter adapter = new WordToNumberAdapter();
 
     public void setValue1(String value1) {
         this.value1 = value1;

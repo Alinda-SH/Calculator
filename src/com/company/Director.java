@@ -3,6 +3,7 @@ package com.company;
 import java.util.Objects;
 
 public class Director {
+
     private final Builder builder;
 
     public Director(Builder builder) {
@@ -20,16 +21,6 @@ public class Director {
         if (Objects.equals(choice, "2") || Objects.equals(choice, "3")) {
             getCalculator().spiltStringSum();
         }
-
         getCalculator().runSum(writer);
     }
-
-//        public void constructHouse()
-//        {
-//            this.houseBuilder.buildBasement();
-//            this.houseBuilder.buildStructure();
-//            this.houseBuilder.buildRoof();
-//            this.houseBuilder.buildInterior();
-//        }
-//    }
 }
