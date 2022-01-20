@@ -3,7 +3,7 @@ package com.company;
 public class Subtraction  implements Strategy{
 
     @Override
-    public float calculation(float a, float b) {
+    public int calculation(int a, int b) {
         return a-b;
     }
 

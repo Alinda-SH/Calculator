@@ -8,7 +8,7 @@ public class Context {
         this.strategy = strategy;
     }
 
-    public float executeStrategy(float num1, float num2){
+    public int executeStrategy(int num1, int num2){
         return strategy.calculation(num1, num2);
     }
 }
