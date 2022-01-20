@@ -1,9 +1,5 @@
 # Java Calculator
-gemaakt door Renz van Kalmthout en Alinda Klap.
-The program is hosted on GitHub and all code is submitted 
-in a zip-file. The readme (README.md) describes the cooperation with the 
-other team member. From the submits, it can be derived that the contributions 
-to the program from both team members is equal. If not, the final grade will be 1.0
+Gemaakt door Renz van Kalmthout en Alinda Klap.
 
 ## Introductie
 Dit is een in Java geprogrammeerde calculator met de opties plus en min. Dit betekent
