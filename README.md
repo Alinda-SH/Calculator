@@ -18,7 +18,7 @@ CalculatorBuilder2 en Director.
 
 ### Structural Pattern:
 Het structural pattern in deze applicatie is een adapter. De adapter wordt gebruikt om 
-van woorden gaan cijfers te gaan, dit is nodig bij optie 3 van input. De adapter is 
+van woorden naar cijfers te gaan, dit is nodig bij optie 3 van input. De adapter is 
 te vinden in het bestand WordToNumberAdapter.
 
 ### Behavioral Pattern: 
