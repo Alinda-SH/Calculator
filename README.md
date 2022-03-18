@@ -1,9 +1,6 @@
 # Java Calculator
-gemaakt door Renz van Kalmthout en Alinda Klap.
-The program is hosted on GitHub and all code is submitted 
-in a zip-file. The readme (README.md) describes the cooperation with the 
-other team member. From the submits, it can be derived that the contributions 
-to the program from both team members is equal. If not, the final grade will be 1.0
+Gemaakt door Renz van Kalmthout en Alinda Klap.
+https://github.com/Alinda-SH/Calculator
 
 ## Introductie
 Dit is een in Java geprogrammeerde calculator met de opties plus en min. Dit betekent
@@ -22,7 +19,7 @@ CalculatorBuilder2 en Director.
 
 ### Structural Pattern:
 Het structural pattern in deze applicatie is een adapter. De adapter wordt gebruikt om 
-van woorden gaan cijfers te gaan, dit is nodig bij optie 3 van input. De adapter is 
+van woorden naar cijfers te gaan, dit is nodig bij optie 3 van input. De adapter is 
 te vinden in het bestand WordToNumberAdapter.
 
 ### Behavioral Pattern: 
