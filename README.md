@@ -32,4 +32,5 @@ Om deze applicatie te maken hebben Renz en Alinda samen gewerkt.
 De adapter is gemaakt door Renz, de builder is gemaakt door Alinda en de strategy is 
 gemaakt door ze allebei.
 
-Renz heeft de Teams opname terug gekeken.
+## Resit
+Renz heeft de Teams opname terug gekeken. Alinda en Renz hebben de feedback toegepast op het project.
